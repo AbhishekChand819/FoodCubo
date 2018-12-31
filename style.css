@@ -1,0 +1,114 @@
+i.icon1 {
+color: white; 
+}
+
+.icon {
+margin-top: 200px; 
+width: 600px; 
+padding: 12px; 
+border-radius: 8px; 
+outline: none;
+}
+
+.navbar-brand {
+	font-family: garamond;
+	 font-size: 30px;
+}
+
+.nav-item {
+	margin-left: 10px; 
+	margin-right: 10px;
+}
+
+.fas {
+	margin-right: 6px;
+}
+
+.col-md-12 {
+	padding: 0;
+}
+
+.bg {
+	background:url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-HD-Pictures-Food-PIC-WPD006582.jpg") fixed;
+	background-position: center;
+	height: 550px; 
+	background-size: cover;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+}
+
+h3 {
+	text-align: center; 
+	color: white; 
+	position:relative;
+	top: 34%;  
+}
+
+.col-md-4 {
+
+	 text-align: center;
+}
+
+.carousel{
+    background: #2f4357;
+    height: 400px;
+    position: relative;
+    margin-top: 25px;
+  }
+.carousel-item{
+    min-height: 280px; 
+    height: 400px;
+
+}
+.carousel-item img{
+    margin: 0 auto; 
+    height: 400px;
+}
+
+.food {
+    height: 260px;
+	width: 100%;
+	border-radius: 5px;
+}
+
+.heading {
+	 padding: 20px;
+
+}
+
+.col-md-4 {
+
+	width: 50px;
+}
+
+.subheading {
+	padding-left: 20px;
+	padding-top: 5px;
+}
+
+a:hover {
+	color: yellow;
+	text-decoration: none;
+}
+
+a{
+	color: white;
+}
+
+li{
+
+	list-style: none; 
+	text-align: left;
+}
+
+ul{
+
+	padding-left: 20px;
+}
+
+.star {
+
+	float: right; 
+	margin-right: 20px;
+	margin-top:10px; 
+}
